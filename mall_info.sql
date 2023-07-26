@@ -1,0 +1,1 @@
+create table mall_info(id int,mall_name varchar(50),
